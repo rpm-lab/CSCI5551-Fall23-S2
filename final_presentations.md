@@ -9,9 +9,9 @@ nav_order: 5
 
 <div class="side-by-side"> 
   <div> 
-    <iframe src="https://drive.google.com/file/d/1V275p7e6bmB_2i8x9HQwwK0a2ataaQeR/view?usp=sharing&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+    <iframe src="https://drive.google.com/file/d/1V275p7e6bmB_2i8x9HQwwK0a2ataaQeR/preview" width="640" height="480" allow="autoplay"></iframe>
   </div> 
   <div> 
-    <iframe src="https://drive.google.com/file/d/1V275p7e6bmB_2i8x9HQwwK0a2ataaQeR/view?usp=sharing&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+    <iframe src="https://drive.google.com/file/d/1SRixCNbwH3KKrVbRK2WbVwmirY7kLw7K/preview" width="640" height="480" allow="autoplay"></iframe>
   </div> 
 </div>
