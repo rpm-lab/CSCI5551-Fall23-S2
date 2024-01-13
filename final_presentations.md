@@ -39,7 +39,6 @@ nav_order: 5
 
 <h1>Group: Warehouse Optimization using Intelligent Robotics</h1>
 <div class="fp-row"> 
-  <h> Group: Homebot </h>
   <div class="fp-column"> 
     <iframe src="https://drive.google.com/file/d/1vep8Omz0mLDg6TiA2H6Kl7b5nqxToa1Z/preview" width="640" height="480" allow="autoplay"></iframe>
   </div> 
